@@ -1,4 +1,4 @@
-````md
+
 # Passive OSINT Case Study: Identifying SEO Spam Injection on a WordPress Website (Responsible Disclosure)
 
 ## Executive Summary
@@ -102,4 +102,3 @@ I collected evidence (screenshots and command output) and contacted the site own
 No further action was taken beyond responsible reporting.
 
 ✅ End of report.
-````
