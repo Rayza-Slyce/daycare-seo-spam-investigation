@@ -78,7 +78,7 @@ The daily sitemap contained large numbers of unrelated product-style URLs (car p
 ## Findings / Conclusion
 Based on the evidence collected, the website appears to be compromised and is being used for:
 
-- **SEO spam injection / parasite pages**
+- SEO spam injection / parasite pages
 - Search engine poisoning (spam URLs being indexed)
 - Potential unsafe redirects to suspicious external storefronts
 
