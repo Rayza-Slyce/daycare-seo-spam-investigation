@@ -1,7 +1,7 @@
 
 # Passive OSINT Case Study: Identifying SEO Spam Injection on a WordPress Website (Responsible Disclosure)
 
-## Executive Summary
+## Summary
 While searching Google for laptop RAM, I noticed an unusual search result showing a daycare-related website appearing to host product listings for computer hardware. This anomaly suggested potential compromise and misuse of the domain for spam content.
 
 Using **passive verification only** (public files and HTTP requests), I confirmed the site was publishing large numbers of unrelated “product listing” URLs via an additional sitemap system consistent with **SEO spam / parasite pages**.
